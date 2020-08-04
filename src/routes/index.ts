@@ -1,9 +1,11 @@
 import { Router } from 'express';
 
+import classesRoutes from './classes.routes';
+import connectionsRoutes from './connections.routes';
+
 const routes = Router();
 
-routes.get('/', (request, response) => {
-  return response.json({ message: 'ok' });
-});
+routes.use('/classes', classesRoutes);
+routes.use('/connections', connectionsRoutes);
 
 export default routes;
