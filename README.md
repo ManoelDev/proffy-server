@@ -1,6 +1,6 @@
 <img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
-# Server (Proffy) nlw2
+# Server (Proffy) nlw2 day 2
 
 ## Funcionalidades
 
