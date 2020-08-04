@@ -1,4 +1,6 @@
-# Server nlw2 (Proffy)
+<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+
+# Server (Proffy) nlw2
 
 ## Funcionalidades
 
